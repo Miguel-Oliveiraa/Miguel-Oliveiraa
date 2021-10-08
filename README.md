@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel
 
-## I'm a Student, Developer and laid-back!
+## I'm a Student, Developer and Gamer!
 
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to meet new people 
