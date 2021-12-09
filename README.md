@@ -37,5 +37,5 @@
 
 <!-- [website]: https://codeSTACKr.com -->
 [twitter]: https://twitter.com/migasEleMesmo
-[instagram]: https://www.instagram.com/migasrcf/
+[instagram]: https://www.instagram.com/gomez3k/
 [linkedin]: https://www.linkedin.com/in/miguel-oliveira-0a1450213/
