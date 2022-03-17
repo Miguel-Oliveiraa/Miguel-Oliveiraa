@@ -6,12 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migasrcf&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## I'm a Student, Developer and Gamer!
+## I'm a Student and Developer!
 
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to meet new people 
-- 🥅 2020 Goals: Get experience and learn more
-- ⚡ Fun fact: I love to play soccer and games
+- 🥅 2022 Goals: Get experience and learn more
+- ⚡ Fun fact: I love to play football and basketball
 
 ### Connect with me:
 
