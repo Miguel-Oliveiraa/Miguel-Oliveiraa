@@ -36,3 +36,17 @@
 
 <!-- [website]: https://codeSTACKr.com -->
 [linkedin]: https://www.linkedin.com/in/miguel-oliveira-0a1450213/
+
+  
+# Miguel Gomes 
+
+React-developer.
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Gomes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveira-0a1450213/) 
+[![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](mailto:miguellgomes64@gmail.com)
+
+Enthusiast of the best web & mobile development technologies.
+
+Passionate about UX/UI and making the user have the best experience possible.
+
+"The greatest deception men suffer is from their own opinions."
