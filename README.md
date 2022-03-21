@@ -1,21 +1,15 @@
-### Hi there, I'm Miguel
+# Miguel Gomes 
 
-<div align="center">
-  <a href="https://github.com/migasrcf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migasrcf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migasrcf&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-## I'm a Student and Developer!
+React-developer.
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Gomes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveira-0a1450213/) 
+[![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](mailto:miguellgomes64@gmail.com)
 
-- 🌱 I’m currently learning ReactJS and NodeJS
-- 👯 I’m looking to meet new people 
-- 🥅 2022 Goals: Get experience and learn more
-- ⚡ Fun fact: I love to play football and basketball
+Enthusiast of the best web & mobile development technologies.
 
-### Connect with me:
+Passionate about UX/UI and making the user have the best experience possible.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+"The greatest deception men suffer is from their own opinions."
 
 <br />
 
@@ -36,17 +30,3 @@
 
 <!-- [website]: https://codeSTACKr.com -->
 [linkedin]: https://www.linkedin.com/in/miguel-oliveira-0a1450213/
-
-  
-# Miguel Gomes 
-
-React-developer.
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Gomes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveira-0a1450213/) 
-[![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](mailto:miguellgomes64@gmail.com)
-
-Enthusiast of the best web & mobile development technologies.
-
-Passionate about UX/UI and making the user have the best experience possible.
-
-"The greatest deception men suffer is from their own opinions."
