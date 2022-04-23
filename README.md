@@ -1,6 +1,6 @@
 # Miguel Oliveira 
 
-React-developer.
+I'm a React-developer.
  
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveira-0a1450213/) 
 [![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](mailto:miguellgomes64@gmail.com)
