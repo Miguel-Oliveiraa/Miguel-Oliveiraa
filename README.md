@@ -7,7 +7,9 @@ I'm a React-developer.
 
 Enthusiast of the best web & mobile development technologies.
 
-Passionate about UX/UI and making the user have the best experience possible.
+I like to read, study, hangout with friends, watch movies and create new things.
+
+I'm passionate about UX/UI, I think making the user have the best experience is too important because you show that you care about him.
 
 "The greatest deception men suffer is from their own opinions."
 
