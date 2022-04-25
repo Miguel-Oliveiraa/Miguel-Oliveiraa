@@ -9,7 +9,7 @@ Enthusiast of the best web & mobile development technologies.
 
 I like to read, study, hangout with friends, watch movies and create new things.
 
-I'm passionate about UX/UI, I think making the user have the best experience is too important because you show that you care about him.
+I'm passionate about UX/UI, I think making the user have the best experience is too important because you make him feel especial
 
 "The greatest deception men suffer is from their own opinions."
 
