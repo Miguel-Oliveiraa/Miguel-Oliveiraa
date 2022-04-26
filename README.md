@@ -2,7 +2,7 @@
 
 I'm a Front-end developer studying React.
  
-[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveira-0a1450213/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveiraa) 
 [![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](mailto:miguellgomes64@gmail.com)
 
 💻 Enthusiast of the best web & mobile development technologies.
