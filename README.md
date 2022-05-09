@@ -11,7 +11,7 @@ I'm a Front-end developer studying React.
 
 🎯 I'm passionate about UX/UI, I think making the user have the best experience is too important because you make him feel especial.
 
-"We cannot solve our problems with the same thinking we used when we created them."
+"we cannot solve our problems with the same thinking we used when we created them."
 
 ### Languages and Tools:
 
