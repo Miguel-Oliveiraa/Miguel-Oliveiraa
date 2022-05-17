@@ -32,8 +32,11 @@ I'm a Front-end developer studying React.
 -----------------------------------------
 
 💻 Enthusiast of the best web & mobile development technologies.
+
 🙋‍ I like to read, study, hangout with friends, watch movies and create new things.
+
 🎯 I'm passionate about UX/UI, I think making the user have the best experience is too important because you make him feel especial.
+
 "we cannot solve our problems with the same thinking we used when we created them."
 
 * 🌍  I'm based in Recife, Pernambuco
