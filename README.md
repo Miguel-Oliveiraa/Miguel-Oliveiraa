@@ -41,7 +41,7 @@ I'm a Front-end developer studying React.
 
 * 🌍  I'm based in Recife, Pernambuco
 * ✉️  You can contact me at [miguellgomes64@gmail.com](mailto:miguellgomes64@gmail.com)
-* 🚀  I'm currently working on [Laco](http://github.com/Laco-PHC)
+<!-- * 🚀  I'm currently working on [Laco](http://github.com/Laco-PHC) -->
 * 🧠  I'm learning React-native and typescript
 * 🤝  I'm open to collaborating on Mobile apps
 
