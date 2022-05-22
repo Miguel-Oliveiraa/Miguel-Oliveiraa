@@ -43,7 +43,7 @@ I'm a Front-end developer studying React.
 * ✉️  You can contact me at [miguellgomes64@gmail.com](mailto:miguellgomes64@gmail.com)
 * 🧠  I'm learning React-native and typescript
 * 🤝  I'm open to collaborating on Mobile apps
-<!-- * 🚀  I'm currently working on [Laco](http://github.com/Laco-PHC) -->
+<!-- ha 🚀  I'm currently working on [Laco](http://github.com/Laco-PHC) -->
 
 ### Skills
 
