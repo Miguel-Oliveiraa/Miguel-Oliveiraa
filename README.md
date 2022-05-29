@@ -44,7 +44,7 @@ I'm a Front-end developer studying React.
 * 🧠  I'm learning React-native and typescript
 * 🤝  I'm open to collaborating on Mobile apps
 <!-- ha 🚀  I'm currently working on [Laco](http://github.com/Laco-PHC) -->
-
+<!-- SUP BRO -->
 ### Skills
 
 <p align="left">
