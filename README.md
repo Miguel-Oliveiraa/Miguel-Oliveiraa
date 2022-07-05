@@ -1,11 +1,11 @@
 <!-- # Miguel Oliveira 
 
-I'm a Front-end developer studying React.
+I'm a mobile developer studying React.
  
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveiraa) 
 [![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](mailto:miguellgomes64@gmail.com)
 
-💻 Enthusiast of the best web & mobile development technologies.
+💻 Enthusiast of the best mobile & cross-platform development technologies.
 
 🙋‍♂️ I like to read, study, hangout with friends, watch movies and create new things.
 
@@ -43,8 +43,7 @@ I'm a Front-end developer studying React.
 * ✉️  You can contact me at [miguellgomes64@gmail.com](mailto:miguellgomes64@gmail.com)
 * 🧠  I'm learning React-native and typescript
 * 🤝  I'm open to collaborating on Mobile apps
-<!-- ha 🚀  I'm currently working on [Laco](http://github.com/Laco-PHC) -->
-<!-- SUP BRO -->
+* 🚀  I'm currently working on [Laco](http://github.com/Laco-PHC)
 ### Skills
 
 <p align="left">
