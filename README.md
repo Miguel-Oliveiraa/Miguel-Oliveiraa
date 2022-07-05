@@ -28,10 +28,10 @@ I'm a mobile developer studying React.
 Hi 👋 My name is Miguel Oliveira
 ================================
 
-I'm a Front-end developer studying React.
+I'm a mobile developer studying React.
 -----------------------------------------
 
-💻 Enthusiast of the best web & mobile development technologies.
+💻 Enthusiast of the best mobile & cross-platform development technologies.
 
 🙋‍ I like to read, study, hangout with friends, watch movies and create new things.
 
