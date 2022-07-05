@@ -28,7 +28,7 @@ I'm a mobile developer learning React.
 Hi 👋 My name is Miguel Oliveira
 ================================
 
-I'm a mobile developer learning React.
+I'm a mobile developer working with react-native.
 -----------------------------------------
 
 💻 Enthusiast of the best mobile & cross-platform development technologies.
