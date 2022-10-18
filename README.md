@@ -1,15 +1,13 @@
-<!-- # Miguel Oliveira 
+# Miguel Oliveira
 
-I'm a mobile developer learning React.
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-0a1450213/)](https://www.linkedin.com/in/miguel-oliveiraa) 
-[![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](mailto:miguellgomes64@gmail.com)
+Front-end developer @Rope.
 
-💻 Enthusiast of the best mobile & cross-platform development technologies.
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Oliveira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveiraa/)](https://www.linkedin.com/in/miguel-oliveiraa/) 
+[![Gmail Badge](https://img.shields.io/badge/-miguellgomes64@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguellgomes64@gmail.com)](miguellgomes64@gmail.com)
 
-🙋‍♂️ I like to read, study, hangout with friends, watch movies and create new things.
+Enthusiast of the best web & mobile development technologies.
 
-🎯 I'm passionate about UX/UI, I think making the user have the best experience is too important because you make him feel especial.
+I'm passionate about UX/UI, I think making the user have the best experience is too important because you make him feel especial.
 
 "we cannot solve our problems with the same thinking we used when we created them."
 
