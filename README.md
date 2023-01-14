@@ -1,7 +1,7 @@
 <h1>Welcome to my github profile.</h1>
 
 
-<p>I'm Miguel Oliveira</br> Computer science student and Frontend developer from Recife <b>Pernambuco, Brasil</b>.</p>
+<p>I'm Miguel Oliveira</br> I'm a Computer science student and Frontend developer from Recife, <b>Pernambuco, Brasil</b>.</p>
 
 
 <details>
@@ -10,11 +10,11 @@
 </summary>
 <h2>👨 About me</h2>
 
-<p>Hi, In my free time, I’m a Web/Mobile Developer, Linux evangelist, a Software Architect, Hacker and open source enthusiast who is highly passionate about creating projects, good applications and writing beautiful code.
+<p>Hi, In my free time, I’m a Web Developer, Mobile Developer, Linux evangelist, a Software Architect and open source enthusiast who is highly passionate about creating projects, good applications and writing good code.
 
-In projects I use Javascript so that everything works. Frontend of websites is writed in React, Mobile in React Native and backend in Node.js.
+In my projects I use Javascript so that everything works. Frontend of websites is writed in React, Mobile in React Native and in backend I use Node.js.
 
-I like competitive programming so I use cpp and python to study algorithms and make the fastest solution possible!
+I also like competitive programming so I use cpp and python to study algorithms and make the fastest solution possible!
 
 </br>
 
@@ -28,7 +28,7 @@ I like competitive programming so I use cpp and python to study algorithms and m
   </br>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/-c++-004482?style=flat-square&logo=c++&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/-C++-222222?style=flat-square&logo=cplusplus&logoColor=61DAFB" />
     <img alt="Python" src="https://img.shields.io/badge/-python-F7B93E?style=flat-square&logo=python&logoColor=white" />
   </br>
   <a>Frontend</a>
