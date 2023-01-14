@@ -16,14 +16,11 @@ In my projects I use Javascript so that everything works. Frontend of websites i
 
 I also like competitive programming so I use cpp and python to study algorithms and make the fastest solution possible!
 
-</br>
 
 </p>
 
 <h2>💻 Skills</h2>
 <p>
-  </br>
-  </br>
   <a>Programming Languages</a>
   </br>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
