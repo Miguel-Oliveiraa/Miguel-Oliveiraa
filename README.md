@@ -1,7 +1,7 @@
 <h1>Welcome to my github profile.</h1>
 
 
-<p>I'm Miguel Oliveira</br> I'm a Computer science student and Frontend developer from Recife, <b>Pernambuco, Brasil</b>.</p>
+<p>I'm a Computer science student and Frontend developer from Recife, <b>Pernambuco, Brasil</b>.</p>
 
 
 <details>
