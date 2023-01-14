@@ -33,6 +33,11 @@ I also like competitive programming so I use cpp and python to study algorithms 
     <img alt="React" src="https://img.shields.io/badge/-React.js-222222?style=flat-square&logo=react&logoColor=61DAFB"/>
     <img alt="Next.JS" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
     </br>
+    <a>Mobile</a>
+    </br>
+    <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-222222?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img alt="Expo" src="https://img.shields.io/badge/-Expo-412DE5?style=flat-square&logo=expo&logoColor=white" />
+    </br>
     <a>Backend</a>
     </br>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
