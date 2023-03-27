@@ -25,7 +25,7 @@ I also like competitive programming so I use cpp and python to study algorithms 
   </br>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C++-222222?style=flat-square&logo=cplusplus&logoColor=61DAFB" />
     <img alt="Python" src="https://img.shields.io/badge/-python-F7B93E?style=flat-square&logo=python&logoColor=white" />
   </br>
