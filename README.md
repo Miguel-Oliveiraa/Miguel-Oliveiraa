@@ -10,11 +10,11 @@
 </summary>
 <h2>👨 About me</h2>
 
-<p>Hi, I’m a Java Developer, Linux evangelist, a Software Architect and open source enthusiast who is highly passionate about creating projects, good applications and writing good code.
+<p>Hi, I’m a FullStack Developer, Linux evangelist, a Software Architect and open source enthusiast who is highly passionate about creating projects, good applications and writing good code.
 
 In my projects I use Javascript and Java so that everything works. FullStack of websites is writed in React, Mobile in React Native and in backend I use Java and Node.js.
 
-I also like competitive programming so I use cpp and python to study algorithms and make the fastest solution possible!
+I also like competitive programming so I use Java and python to study algorithms and make the fastest solution possible!
 
 
 </p>
