@@ -1,27 +1,27 @@
-<h1>Welcome to my github profile.</h1>
+<h1>Bem-vindo ao meu perfil github.</h1>
 
 
-<p>I'm a Computer science student and FullStack developer.
+<p>Sou estudante de Ciência da Computação e desenvolvedor Full Stack.
 
 
 <details>
 <summary>
-  more about me.
+  mais sobre mim
 </summary>
-<h2>👨 About me</h2>
+<h2>👨 Sobre mim</h2>
 
-<p>Hi, I’m a FullStack Developer, Linux evangelist, a Software Architect and open source enthusiast who is highly passionate about creating projects, good applications and writing good code.
+<p>Olá, sou desenvolvedor FullStack, Linux evangelist, engenheiro de software e entusiasta de open-source, apaixonado por criar projetos, aplicativos e escrever código.
 
-In my projects I use Javascript and Java so that everything works. FullStack of websites is writed in React, Mobile in React Native and in backend I use Java and Node.js.
+Nos meus projetos normalmente utilizo Javascript e Java para que tudo funcione perfeitamente. Frontend de sites é escrito em React, Mobile em React Native e no backend utilizo Java e Node.js.
 
-I also like competitive programming so I use Java and python to study algorithms and make the fastest solution possible!
+Eu também gosto de programação competitiva, uso Java e python para estudar algoritmos e tornar a solução mais eficiente e rápida!
 
 
 </p>
 
-<h2>💻 Skills</h2>
+<h2>💻 Habilidades</h2>
 <p>
-  <a>Programming Languages</a>
+  <a>Linguagens de programação</a>
   </br>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
@@ -44,12 +44,12 @@ I also like competitive programming so I use Java and python to study algorithms
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-43853d?style=flat-square&logo=swagger&logoColor=white" />
     </br>
-    <a>Databases</a>
+    <a>Bancos de Dados</a>
     </br>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F7B93E?style=flat-square&logo=mysql&logoColor=white" />
     </br>
-    <a>Other</a>
+    <a>Outros</a>
     </br>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -65,7 +65,7 @@ I also like competitive programming so I use Java and python to study algorithms
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<h2>Where to find me</h2>
+<h2>Onde me encontrar</h2>
 <p><a href="https://github.com/miguel-oliveiraa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/miguel-oliveiraa/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-46a2f1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </detail>
