@@ -1,7 +1,7 @@
 <h1>Bem-vindo ao meu perfil do github.</h1>
 
 
-<p>Sou estudante de Ciência da Computação e desenvolvedor Full Stack.
+<p>Sou desenvolvedor Full Stack e estudo Ciência da Computação.
 
 
 <details>
