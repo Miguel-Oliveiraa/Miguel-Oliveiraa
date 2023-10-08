@@ -23,11 +23,11 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
 <p>
   <a>Linguagens de programação</a>
   </br>
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
     <img alt="R" src="https://img.shields.io/badge/-R-222222?style=flat-square&logo=R&logoColor=61DAFB" />
     <img alt="Python" src="https://img.shields.io/badge/-python-F7B93E?style=flat-square&logo=python&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   </br>
   <a>Frontend</a>
   </br>
