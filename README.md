@@ -51,14 +51,13 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
     </br>
     <a>Outros</a>
     </br>
-    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google%20Cloud%20Platform-46a2f1?style=flat-square&logo=googlecloud&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-1D63ED?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-    <img alt="Postman" src="https://img.shields.io/badge/-Postman-F26635?style=flat-square&logo=postman&logoColor=white" />
+    <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-08A4E1?style=flat-square&logo=salesforce&logoColor=white" />
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google%20Cloud%20Platform-FFB908?style=flat-square&logo=googlecloud&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-1D63ED?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-F26635?style=flat-square&logo=postman&logoColor=white" />
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="yarn" src="https://img.shields.io/badge/-yarn-46a2f1?style=flat-square&logo=yarn&logoColor=white" />
