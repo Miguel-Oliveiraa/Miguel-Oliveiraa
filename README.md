@@ -52,7 +52,7 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
     <a>Outros</a>
     </br>
     <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google%20Cloud%20Platform-46a2f1?style=flat-square&logo=googlecloud&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-1D63ED?style=flat-square&logo=docker&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-F26635?style=flat-square&logo=postman&logoColor=white" />
