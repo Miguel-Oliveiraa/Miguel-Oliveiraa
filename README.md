@@ -42,7 +42,7 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
     <a>Backend</a>
     </br>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-43853d?style=flat-square&logo=swagger&logoColor=white" />
+    <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6CB52D?style=flat-square&logo=Spring%20Boot&logoColor=white" />
     </br>
     <a>Bancos de Dados</a>
     </br>
@@ -60,8 +60,8 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="yarn" src="https://img.shields.io/badge/-yarn-46a2f1?style=flat-square&logo=yarn&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-43853d?style=flat-square&logo=swagger&logoColor=white" />
 </p>
 
 <h2>Onde me encontrar</h2>
