@@ -1,7 +1,7 @@
 <h1>Bem-vindo ao meu perfil do github.</h1>
 
 
-<p>Sou desenvolvedor Full Stack, em <a href="https://nutes.ufpe.br/" target="_blank">Nutes</a> e estudo Ciência da Computação <a href="https://portal.cin.ufpe.br/" target="_blank">Centro de Informática</a>.
+<p>Sou pesquisador de Inteligência Artificial, em <a href="https://mamiferosaquaticos.org.br/" target="_blank">FMA</a> e estudo Ciência da Computação <a href="https://portal.cin.ufpe.br/" target="_blank">Centro de Informática</a>.
 
 
 <details>
