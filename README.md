@@ -10,11 +10,11 @@
 </summary>
 <h2>👨 Sobre mim</h2>
 
-<p>Olá, sou desenvolvedor FullStack, Linux evangelist, engenheiro de software e entusiasta de open-source, gosto de criar projetos e aplicativos.
+<p>Olá, sou pesquisador em inteligência artificial (IA), com experiência no desenvolvimento de chatbots e engenharia de software.
 
-Nos meus projetos normalmente utilizo Javascript e Java para que tudo funcione perfeitamente. Frontend de sites é escrito em React, Mobile em React Native e no backend utilizo Java e Node.js.
+<!-- Nos meus projetos normalmente utilizo Javascript e Java para que tudo funcione perfeitamente. Frontend de sites é escrito em React, Mobile em React Native e no backend utilizo Java e Node.js.-->
 
-Eu também gosto de programação competitiva, uso Java e python para estudar algoritmos e tornar a solução mais eficiente e rápida!
+Eu também gosto de programação competitiva, utilizo a plataforma leetcode onde uso C++, Java e python para resolver questões, estudar algoritmos e tornar a solução mais eficiente e rápida!
 
 
 </p>
