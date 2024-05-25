@@ -16,7 +16,7 @@
 
 Eu também gosto de programação competitiva, utilizo a plataforma leetcode onde uso C++, Java e python para resolver questões, estudar algoritmos e tornar a solução mais eficiente e rápida!
 
-
+<!-- 
 </p>
 
 <h2>💻 Habilidades</h2>
@@ -68,3 +68,4 @@ Eu também gosto de programação competitiva, utilizo a plataforma leetcode ond
 <p><a href="https://github.com/miguel-oliveiraa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/miguel-oliveiraa/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-46a2f1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </detail>
+-->
