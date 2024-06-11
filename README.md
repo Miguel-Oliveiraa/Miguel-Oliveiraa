@@ -1,7 +1,7 @@
 <h1>Bem-vindo ao meu perfil do github.</h1>
 
 
-<p>Sou pesquisador de Inteligência Artificial, em <a href="https://mamiferosaquaticos.org.br/" target="_blank">FMA</a> e estudo Ciência da Computação <a href="https://portal.cin.ufpe.br/" target="_blank">Centro de Informática</a>.
+<p>Sou pesquisador de sistemas distribuídos e paralelos e estudo Ciência da Computação em <a href="https://portal.cin.ufpe.br/" target="_blank">Centro de Informática</a>.
 
 
 <details>
@@ -10,9 +10,7 @@
 </summary>
 <h2>👨 Sobre mim</h2>
 
-<p>Olá, sou pesquisador em inteligência artificial (IA), com experiência no desenvolvimento de chatbots e engenharia de software.
-
-<!-- Nos meus projetos normalmente utilizo Javascript e Java para que tudo funcione perfeitamente. Frontend de sites é escrito em React, Mobile em React Native e no backend utilizo Java e Node.js.-->
+<p>Olá, sou pesquisador de sistemas distribuídos e paralelos, com experiência em engenharia de software e desenvolvimento de chatbots.
 
 Eu também gosto de programação competitiva, utilizo a plataforma leetcode onde uso Java e python para resolver questões, estudar algoritmos e tornar a solução mais eficiente e rápida!
 
