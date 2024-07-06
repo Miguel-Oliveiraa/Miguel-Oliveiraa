@@ -12,8 +12,6 @@
 
 <p>Olá, sou pesquisador de sistemas distribuídos e paralelos, com experiência em engenharia de software e desenvolvimento de chatbots.
 
-Eu também gosto de programação competitiva, utilizo a plataforma leetcode onde uso Java e python para resolver questões, estudar algoritmos e tornar a solução mais eficiente e rápida!
-
 <!-- 
 </p>
 
